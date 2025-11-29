@@ -1,23 +1,20 @@
 #EXTM3U url-tvg="https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml"
-#EXT-X-SESSION-DATA:DATA-ID="com.vokka-onl"
 
-#PLAYLIST-VERSION:1.0.3, webmaster@vokka.online
-
-#EXTINF:-1 vokka-id="4521" tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png" group-title="Vokka Production",TV4 HD
+#EXTINF:-1 tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4hd.png" group-title="Vokka Production",TV4 HD
 https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8
-#EXTINF:-1 vokka-id="4918" tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png" group-title="Vokka Production",TV4 SD
+#EXTINF:-1 tvg-id="TV4" tvg-name="TV4" tvg-logo="https://taurerassets.xyz/tv_content/images/tv4sd.png" group-title="Vokka Production",TV4 SD
 https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
-#EXTINF:-1 vokka-id="3857" tvg-id="HTV" tvg-name="HTV" tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png" group-title="Vokka Production",HTV HD
+#EXTINF:-1 tvg-id="HTV" tvg-name="HTV" tvg-logo="https://taurerassets.xyz/tv_content/images/htvhd.png" group-title="Vokka Production",HTV HD
 https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
 
 
-#EXTINF:-1 vokka-id="9481" tvg-id="alphacinema" tvg-name="alphacinema" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" group-title="alpha Production",alpha Cinema HD
+#EXTINF:-1 tvg-id="alphacinema" tvg-name="alphacinema" tvg-logo="https://taurerassets.xyz/tv_content/images/alphacinemahd.png" group-title="alpha Production",alpha Cinema HD
 https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8
-#EXTINF:-1 vokka-id="1193" tvg-id="alphamoretime" tvg-name="alphamoretime" tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png" group-title="alpha Production",alpha Moretime HD
+#EXTINF:-1 tvg-id="alphamoretime" tvg-name="alphamoretime" tvg-logo="https://taurerassets.xyz/tv_content/images/alphamoretimehd.png" group-title="alpha Production",alpha Moretime HD
 https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
-#EXTINF:-1 vokka-id="3918" tvg-id="alphafunny" tvg-name="alphafunny" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" group-title="alpha Production",alpha Funny HD
+#EXTINF:-1 tvg-id="alphafunny" tvg-name="alphafunny" tvg-logo="https://taurerassets.xyz/tv_content/images/alphafunnyhd.png" group-title="alpha Production",alpha Funny HD
 https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8
-#EXTINF:-1 vokka-id="1175" tvg-id="15plusmusic" tvg-name="15plusmusic" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="alpha Production",15+ Music HD
+#EXTINF:-1 tvg-id="15plusmusic" tvg-name="15plusmusic" tvg-logo="https://taurerassets.xyz/tv_content/images/15plusmusichd.png" group-title="alpha Production",15+ Music HD
 https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8
-#EXTINF:-1 vokka-id="8571" tvg-id="newrussian" tvg-name="newrussian" tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png" group-title="alpha Production",Новый Русский HD
+#EXTINF:-1 tvg-id="newrussian" tvg-name="newrussian" tvg-logo="https://taurerassets.xyz/tv_content/images/newrussianhd.png" group-title="alpha Production",Новый Русский HD
 https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
